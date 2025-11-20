@@ -1,0 +1,9 @@
+title: "Hwi-Jun Jeon"
+description: "AI Researcher | Generative Models (Diffusion, LLMs, Multimodal AI)"
+theme: jekyll-theme-minimal
+
+logo: assets/profile.jpg
+show_downloads: false
+
+github:
+  is_project_page: false
