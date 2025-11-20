@@ -1,4 +1,4 @@
-# 👋 Hwi-Jun Jeon (전휘준)
+# 👋 Matthew Hwyjoon Jeon (전휘준)
 
 **AI Researcher & Engineer**  
 Generative Models · Diffusion · LLMs · Multimodal AI  
