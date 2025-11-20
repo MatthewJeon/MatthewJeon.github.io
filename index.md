@@ -5,9 +5,9 @@ Generative Models · Diffusion · LLMs · Multimodal AI
 M.S. in Computer Science, Korea University
 
 📫 **Contact**  
-- Email: your_email@example.com  
-- Google Scholar: <link_here>  
-- GitHub: https://github.com/hjunjeon  
+- Email: hwyjeon@korea.ac.kr  
+- Google Scholar: <[link_here](https://scholar.google.com/citations?hl=ko&authuser=2&user=uyJogsQAAAAJ)>  
+- GitHub: https://github.com/MatthewJeon
 - CV: [Download PDF](assets/CV_HwiJunJeon.pdf)
 
 
@@ -29,7 +29,7 @@ M.S. in Computer Science, Korea University
 **H. Jeon**, et al.  
 *Neurocomputing (Q1 SCI)*, 2024  
 Designed a multi-adapter architecture (color-structure, semantic, style).  
-[ScienceDirect](https://www.sciencedirect.com/science/article/pii/xxxxxxx)
+[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0925231224019921)
 
 ---
 
