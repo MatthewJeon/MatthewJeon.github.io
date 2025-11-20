@@ -29,7 +29,7 @@ M.S. in Computer Science, Korea University
 **H. Jeon**, et al.  
 *Neurocomputing (Q1 SCI)*, 2024  
 Designed a multi-adapter architecture (color-structure, semantic, style).  
-[PDF](#) · [Code](#)
+[ScienceDirect](https://www.sciencedirect.com/science/article/pii/xxxxxxx)
 
 ---
 
@@ -37,7 +37,7 @@ Designed a multi-adapter architecture (color-structure, semantic, style).
 **H. Jeon**, et al.  
 *IEEE BigComp*, 2024  
 Improved reflectivity & color fidelity via Color Canny + Reflect ControlNet.  
-[PDF](#) · [Slides](#)
+[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10488185)
 
 ---
 
