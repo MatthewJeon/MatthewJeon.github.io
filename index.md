@@ -27,7 +27,7 @@ M.S. in Computer Science, Korea University
 
 ### **1. A photo cartoonization method based on text-to-image diffusion model**  
 **H. Jeon**, et al.  
-*Neurocomputing (Q1 SCI)*, 2024  
+*Neurocomputing (Q1 SCI)*, 2025  
 Designed a multi-adapter architecture (color-structure, semantic, style).  
 [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0925231224019921)
 
@@ -44,7 +44,7 @@ Improved reflectivity & color fidelity via Color Canny + Reflect ControlNet.
 ### **3. LLM-based Synonym Dictionary Construction and Evaluation Method**  
 **H. Jeon**, et al.  
 *Korean Database Conference (KDBC)*, 2023 | Patent Filed  
-LoRA + 8-bit quantization fine-tuning for Korean neologism recognition.  
+Prompt Engineering for Korean sysnonym dictionary generation.  
 [PDF](#)
 
 
