@@ -8,7 +8,7 @@ M.S. in Computer Science, Korea University
 - Email: hwyjeon@korea.ac.kr  
 - Google Scholar: <[link_here](https://scholar.google.com/citations?hl=ko&authuser=2&user=uyJogsQAAAAJ)>  
 - GitHub: https://github.com/MatthewJeon
-- CV: [Download PDF](assets/CV_HwiJunJeon.pdf)
+
 
 
 ---
@@ -67,25 +67,11 @@ Prompt Engineering for Korean sysnonym dictionary generation.
 
 ---
 
-### **Stereo Speech-to-Speech Dataset Generator (Industry Project)**
+### **Stereo Speech-to-Speech Dataset Generator**
 - Pyannote diarization  
 - Assistant-labeled stereo output  
 - Automated 2-channel dataset creation pipeline
 
----
-
-### **Prompt-based Cartoonization Model**
-- Text-driven style transformation  
-- Structure-preserving generation for cartoon domain  
-- Ongoing extension of previous research
-
-
----
-
-## 📄 Curriculum Vitae
-👉 [CV Download](assets/CV_HwiJunJeon.pdf)
-
-If you want to learn more, feel free to reach out!
 
 
 ---
