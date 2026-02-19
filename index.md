@@ -25,27 +25,31 @@ M.S. in Computer Science, Korea University
 
 ## 📚 Publications
 
-### **1. A photo cartoonization method based on text-to-image diffusion model**  
-**H. Jeon**, et al.  
-*Neurocomputing (Q1 SCI)*, 2025  
-Designed a multi-adapter architecture (color-structure, semantic, style).  
-[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0925231224019921)
+### 🌍 International Journal
+1. **A photo cartoonization method based on text-to-image diffusion model**  
+   **H. Jeon**, et al.  
+   *Neurocomputing (Q1 SCI)*, 2025  
+   Designed a multi-adapter architecture (color-structure, semantic, style).  
+   [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0925231224019921)
 
 ---
 
-### **2. CartoonizeDiff: Diffusion-Based Photo Cartoonization Scheme**  
-**H. Jeon**, et al.  
-*IEEE BigComp*, 2024  
-Improved reflectivity & color fidelity via Color Canny + Reflect ControlNet.  
-[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10488185)
+### 🌍 International Conference
+1. **CartoonizeDiff: Diffusion-Based Photo Cartoonization Scheme**  
+   **H. Jeon**, et al.  
+   *IEEE BigComp*, 2024  
+   Improved reflectivity & color fidelity via Color Canny + Reflect ControlNet.  
+   [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10488185)
 
 ---
 
-### **3. LLM-based Synonym Dictionary Construction and Evaluation Method**  
-**H. Jeon**, et al.  
-*Korean Database Conference (KDBC)*, 2023 | Patent Filed  
-Prompt Engineering for Korean sysnonym dictionary generation.  
-[PDF](#)
+### 🇰🇷 Domestic Conference
+1. **LLM-based Synonym Dictionary Construction and Evaluation Method**  
+   **H. Jeon**, et al.  
+   *Korean Database Conference (KDBC)*, 2023 | Patent Filed  
+   Prompt Engineering for Korean sysnonym dictionary generation.  
+   [PDF](#)
+
 
 
 ---
