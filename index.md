@@ -15,12 +15,9 @@
 ---
 
 ## 🧠 Research Interests
-- Text-to-Video / Image-to-Video Generation  
-- Adapter-based Controllable Diffusion  
-- Model Compression & On-device Inference  
-- Multimodal Large Models (VLM / MLLM)  
-- Vision-Language Conditional Generation  
-
+- Image / Video Generation  
+- LLM / VLM
+- Optimization
 
 ---
 
