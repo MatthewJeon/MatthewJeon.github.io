@@ -50,27 +50,35 @@ Prompt Engineering for Korean sysnonym dictionary generation.
 
 ---
 
-## 🛠 Selected Projects
+## 🧪 Research Projects
 
-### **Image-to-Cartoon Pipeline with Multi-Adapters**
-- Combined color-structure adapter, semantic adapter, and style adapter  
-- Controlled generation with Stable Diffusion  
-- Published in Neurocomputing (First Author)
-
----
-
-### **Synonym Dictionary Pipeline with Fine-tuned LLMs**
-- Fine-tuned SOLAR-10.7B  
-- Used Data Parallelism, LoRA, QLoRA, 8-bit quantization  
-- Built synonym & neologism dictionary for ElasticSearch  
-- Produced one paper + one patent
-
----
-
-### **Stereo Speech-to-Speech Dataset Generator**
-- Pyannote diarization  
-- Assistant-labeled stereo output  
-- Automated 2-channel dataset creation pipeline
+<div class="section-card">
+  <ul class="project-list">
+    <li>
+      <strong>2023.06 – 2025.02</strong><br />
+      한국연구재단 (National Research Foundation of Korea)<br />
+      객체 정체성을 유지하는 이미지 생성을 위한 묘사 텍스트 세분화 및 텍스트-이미지 생성 모델 연구<br />
+      <span class="meta">(A study on description text refinement and text-to-image generation model for image generation maintaining object identity)</span>
+    </li>
+    <li>
+      <strong>2023.03 – 2023.08</strong><br />
+      (주)로이드케이<br />
+      자연어 기반 검색 경험 향상<br />
+      <span class="meta">(Enhancement of Natural Language-Based Search Experience)</span>
+    </li>
+    <li>
+      <strong>2024.02 – 2024.08</strong><br />
+      LLM 솔루션 활용 및 환각현상 방지 연구개발<br />
+      <span class="meta">(Research and Development of LLM Solution Utilization and Hallucination Prevention)</span>
+    </li>
+    <li>
+      <strong>2023.03 – 2025.02</strong><br />
+      한국연구재단 (National Research Foundation of Korea)<br />
+      순서학습연구실: 비교적 데이터 분석 및 평가를 위한 인공지능 연구<br />
+      <span class="meta">(Order Learning Lab: Artificial Intelligence Research for Comparative Data Analysis and Evaluation)</span>
+    </li>
+  </ul>
+</div>
 
 
 
