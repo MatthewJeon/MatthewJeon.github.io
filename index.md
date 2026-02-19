@@ -3,12 +3,12 @@
 **AI Researcher & Engineer**  
 Generative Models · Diffusion · LLMs · Multimodal AI  
 M.S. in Computer Science, Korea University
+Citizenship: United States & Republic of Korea  
 
 📫 **Contact**  
 - Email: hwyjeon@korea.ac.kr  
 - Google Scholar: <[link_here](https://scholar.google.com/citations?hl=ko&authuser=2&user=uyJogsQAAAAJ)>  
 - GitHub: https://github.com/MatthewJeon
-
 
 
 ---
