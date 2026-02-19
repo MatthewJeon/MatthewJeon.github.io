@@ -15,6 +15,7 @@
 ---
 
 ## 🧠 Research Interests
+- Computer Vision
 - Image / Video Generation  
 - LLM / VLM
 - Optimization
