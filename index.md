@@ -1,10 +1,10 @@
 # 👋 Matthew Hwyjoon Jeon (전휘준)
 
 **AI Researcher & Engineer**  
-Generative Models · Diffusion · LLMs · Multimodal AI
-M.S. in Electrical and Computer Engineering, Korea University, 2025
-B.S. in Computer Science, Dongguk University, 2023
-Citizenship: United States & Republic of Korea  
+- Generative Models · Diffusion · LLMs · Multimodal AI
+- M.S. in Electrical and Computer Engineering, Korea University, 2025
+- B.S. in Computer Science, Dongguk University, 2023
+- Citizenship: United States & Republic of Korea  
 
 📫 **Contact**  
 - Email: hwyjeon@korea.ac.kr  
