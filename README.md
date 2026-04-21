@@ -8,7 +8,7 @@ Live: https://matthewjeon.github.io/
 
 - `index.html` — main entry
 - `data.js` — content (bilingual EN/KO, publications, projects)
-- `v1-editorial.jsx` — layout component
+- `v4-macapp.jsx` — layout component
 
 ## Local preview
 
